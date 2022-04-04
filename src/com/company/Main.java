@@ -22,6 +22,6 @@ public class Main {
         } while (friday < 31);
 
         // Task 3
-        int year = 0;
+
     }
 }
