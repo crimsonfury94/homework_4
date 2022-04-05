@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Task 1
+
         int i = 0;
         while (i < 10) {
             i++;
@@ -17,6 +18,7 @@ public class Main {
         }
         System.out.println();
         // Task 2
+
         int friday = 6;
         do {
             System.out.println("Today is friday " + friday + " th. Need prepare report!");
