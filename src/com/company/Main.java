@@ -5,6 +5,7 @@ import jdk.swing.interop.SwingInterOpUtils;
 public class Main {
 
     public static void main(String[] args) {
+
         // Task 1
 
         int i = 0;
@@ -17,6 +18,7 @@ public class Main {
             System.out.print(i + " ");
         }
         System.out.println();
+
         // Task 2
 
         int friday = 6;
@@ -26,6 +28,7 @@ public class Main {
         } while (friday < 31);
 
         // Task 3
+
         int presentYear = 2022;
         for (int year = 0; year < (presentYear + 100); year = year + 79) {
             if (year > (presentYear - 200)) {
